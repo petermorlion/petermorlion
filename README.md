@@ -6,6 +6,8 @@ I'm Peter Morlion 🤓.
 
 🤝 I'm an independent consultant so you can hire me to do the above
 
+📫 Contact me by [email](info@redstar.be) or [on LinkedIn](https://www.linkedin.com/in/petermorlion/).
+
 ![](./img/building-bruges.png) I founded [Building Bruges](https://buildingbruges.be), a developer community in Bruges, Belgium.
 
 <a href="https://www.linkedin.com/in/petermorlion/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -18,6 +20,12 @@ I've given several courses and talks in the past. Not all were recorded, but the
 - [Software Architecture Patterns for Developers](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsoftware-architecture-patterns-for-developers%3Ftrk%3Dshare_ent_url%26shareId%3D3xIVJKEwQdWzXMfZ%252BZI5Xw%253D%253D)
 - [Learning RabbitMQ](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-rabbitmq%3Ftrk%3Dshare_ent_url%26shareId%3DH5XRj4KzQKaHLo5Rq2zeFg%253D%253D)
 - [L'architecture logicielle : Les patrons pour les développeurs](https://www.linkedin.com/learning/l-architecture-logicielle-les-patrons-pour-les-developpeurs/aborder-les-microservices?autoplay=true) (French :fr:)
+
+### Projects
+
+I work and have worked on these personal projects:
+- [RedStar Amounts](https://petermorlion.github.io/RedStar.Amounts/), a NuGet package to safely work with units, amounts, measurements and conversions in .NET.
+- [Order Item Notes for WooCommerce](https://wordpress.org/plugins/order-item-notes-for-woocommerce/), a WordPress plugin to add notes to individual order items in WooCommerce orders.
 
 ### Stats
 
