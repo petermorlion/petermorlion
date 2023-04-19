@@ -20,10 +20,17 @@ I've given several courses and talks in the past. Not all were recorded, but the
 - [Software Architecture Patterns for Developers](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsoftware-architecture-patterns-for-developers%3Ftrk%3Dshare_ent_url%26shareId%3D3xIVJKEwQdWzXMfZ%252BZI5Xw%253D%253D)
 - [Learning RabbitMQ](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-rabbitmq%3Ftrk%3Dshare_ent_url%26shareId%3DH5XRj4KzQKaHLo5Rq2zeFg%253D%253D)
 - [L'architecture logicielle : Les patrons pour les développeurs](https://www.linkedin.com/learning/l-architecture-logicielle-les-patrons-pour-les-developpeurs/aborder-les-microservices?autoplay=true) (French :fr:)
+- [Working With Technical Debt (featured on the Tiny DevOps podcast)](https://jhall.io/archive/2021/06/01/tiny-devops-episode-4-working-with-technical-debt/)
+
+### Documents
+
+- [5 Symptoms of Technical Debt (And the Solutions)](https://www.redstar.be/wp-content/uploads/2022/10/5-Symptoms-of-Technical-Debt-and-Solutions.pdf)
+- [11 Types of Test Automation, Explained (featured on Waldo.com)](https://www.waldo.com/mobile-testing/types)
+- [Tackling Legacy Code (feature in DotNetCurry)](https://www.dotnetcurry.com/patterns-practices/tackling-legacy-code-tips)
 
 ### Projects
 
-I work and have worked on these personal projects:
+I work and have worked on these personal and public projects (there are private ones too):
 - [RedStar Amounts](https://petermorlion.github.io/RedStar.Amounts/), a NuGet package to safely work with units, amounts, measurements and conversions in .NET.
 - [Order Item Notes for WooCommerce](https://wordpress.org/plugins/order-item-notes-for-woocommerce/), a WordPress plugin to add notes to individual order items in WooCommerce orders.
 
