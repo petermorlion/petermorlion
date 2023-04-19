@@ -12,7 +12,7 @@ I'm Peter Morlion 🤓.
 
 <a href="https://www.linkedin.com/in/petermorlion/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-### Courses & Talks
+### 🗨️ Courses & Talks
 
 I've given several courses and talks in the past. Not all were recorded, but these were:
 
@@ -22,19 +22,19 @@ I've given several courses and talks in the past. Not all were recorded, but the
 - [L'architecture logicielle : Les patrons pour les développeurs](https://www.linkedin.com/learning/l-architecture-logicielle-les-patrons-pour-les-developpeurs/aborder-les-microservices?autoplay=true) (French :fr:)
 - [Working With Technical Debt (featured on the Tiny DevOps podcast)](https://jhall.io/archive/2021/06/01/tiny-devops-episode-4-working-with-technical-debt/)
 
-### Documents
+### 📄 Documents
 
 - [5 Symptoms of Technical Debt (And the Solutions)](https://www.redstar.be/wp-content/uploads/2022/10/5-Symptoms-of-Technical-Debt-and-Solutions.pdf)
 - [11 Types of Test Automation, Explained (featured on Waldo.com)](https://www.waldo.com/mobile-testing/types)
 - [Tackling Legacy Code (feature in DotNetCurry)](https://www.dotnetcurry.com/patterns-practices/tackling-legacy-code-tips)
 
-### Projects
+### 🧑‍💻 Projects
 
 I work and have worked on these personal and public projects (there are private ones too):
 - [RedStar Amounts](https://petermorlion.github.io/RedStar.Amounts/), a NuGet package to safely work with units, amounts, measurements and conversions in .NET.
 - [Order Item Notes for WooCommerce](https://wordpress.org/plugins/order-item-notes-for-woocommerce/), a WordPress plugin to add notes to individual order items in WooCommerce orders.
 
-### Stats
+### 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=petermorlion&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=petermorlion&theme=blue-green)
