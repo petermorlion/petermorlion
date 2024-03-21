@@ -16,6 +16,7 @@ I'm Peter Morlion 🤓.
 
 I've given several courses and talks in the past. Not all were recorded, but these were:
 
+- [Technical Debt And Legacy Code For Managers](https://www.linkedin.com/learning/technical-debt-and-legacy-code-for-managers/)
 - [Help! I Inherited Legacy Code](https://www.facebook.com/watch/live/?ref=watch_permalink&v=926169745020312)
 - [Software Architecture Patterns for Developers](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsoftware-architecture-patterns-for-developers%3Ftrk%3Dshare_ent_url%26shareId%3D3xIVJKEwQdWzXMfZ%252BZI5Xw%253D%253D)
 - [Learning RabbitMQ](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-rabbitmq%3Ftrk%3Dshare_ent_url%26shareId%3DH5XRj4KzQKaHLo5Rq2zeFg%253D%253D)
