@@ -23,6 +23,10 @@ I've given several courses and talks in the past. Not all were recorded, but the
 - [L'architecture logicielle : Les patrons pour les développeurs](https://www.linkedin.com/learning/l-architecture-logicielle-les-patrons-pour-les-developpeurs/aborder-les-microservices?autoplay=true) (French :fr:)
 - [Working With Technical Debt (featured on the Tiny DevOps podcast)](https://jhall.io/archive/2021/06/01/tiny-devops-episode-4-working-with-technical-debt/)
 
+### 📚 Books
+
+- [Ultimate Microservices with RabbitMQ](https://www.amazon.com/Ultimate-Microservices-RabbitMQ-Architecture-Integration/dp/8197256306)
+
 ### 📄 Documents
 
 - [5 Symptoms of Technical Debt (And the Solutions)](https://www.redstar.be/wp-content/uploads/2022/10/5-Symptoms-of-Technical-Debt-and-Solutions.pdf)
