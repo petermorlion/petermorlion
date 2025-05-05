@@ -38,6 +38,8 @@ I've given several courses and talks in the past. Not all were recorded, but the
 I work and have worked on these personal and public projects (there are private ones too):
 - [RedStar Amounts](https://petermorlion.github.io/RedStar.Amounts/), a NuGet package to safely work with units, amounts, measurements and conversions in .NET.
 - [Order Item Notes for WooCommerce](https://wordpress.org/plugins/order-item-notes-for-woocommerce/), a WordPress plugin to add notes to individual order items in WooCommerce orders.
+- [SEPA QR for WooCommerce](https://wordpress.org/plugins/sepa-qr-code-for-woocommerce/), a WooCommerce plugin to add SEPA QR codes to the order confirmation email so (EU) customers can easily pay.
+- [Sint Leo Pannenkoeken](https://github.com/petermorlion/SintLeoPannenkoeken), a web application to help manage the fundraising of the local sea scouts (selling over 35000 pancakes across Bruges, Belgium).
 
 ### 📊 Stats
 
