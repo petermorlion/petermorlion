@@ -40,6 +40,7 @@ I work and have worked on these personal and public projects (there are private 
 - [Order Item Notes for WooCommerce](https://wordpress.org/plugins/order-item-notes-for-woocommerce/), a WordPress plugin to add notes to individual order items in WooCommerce orders.
 - [SEPA QR for WooCommerce](https://wordpress.org/plugins/sepa-qr-code-for-woocommerce/), a WooCommerce plugin to add SEPA QR codes to the order confirmation email so (EU) customers can easily pay.
 - [Sint Leo Pannenkoeken](https://github.com/petermorlion/SintLeoPannenkoeken), a web application to help manage the fundraising of the local sea scouts (selling over 35000 pancakes across Bruges, Belgium).
+- [WijDelen](https://github.com/petermorlion/wijdelen), a no-longer active web application to share physical items with each other. Interesting project as it combines CRUD with CQRS/Event Sourcing depending on the subdomain. Built on OrchardCMS.
 
 ### 📊 Stats
 
